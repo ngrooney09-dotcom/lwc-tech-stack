@@ -22,13 +22,13 @@ to learn how to use Tailwind CSS with Javascript
 
 ## Setup instructions
 
-1. Clone the repository, and go to the project folder
+1. Clone the repository
 
-2. Open the terminal 
+2. Git checkout the branch you want to check out, `git checkout -b [branch name]`
 
-3. Activate Tailwind CSS (CLI) by typing `npx @tailwindcss/cli -i ./input.css -o ./style.css --watch`
+3. Go to the folder 
 
-4. Open index.html (click Go Live)
+4. Go to index.html then click Go Live
 
 ## Environment / tools used
 
