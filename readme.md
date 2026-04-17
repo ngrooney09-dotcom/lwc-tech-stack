@@ -40,7 +40,7 @@ to learn how to use Tailwind CSS with Javascript
 
 ## Notes about setup
 
-Tailwind CSS (CLI) requires a build step when not using the CDN. The `input.css` file with `@import "tailwindcss";` is necessary so that you can type `npx @tailwindcss/cli -i ./input.css -o ./style.css --watch` which the Tailwind CLI can generate `style.css`, which is then used by the browser. Without this step, Tailwind styles will not appear.
+Tailwind CSS (CLI) requires steps when not using the CDN. The `input.css` file with `@import "tailwindcss";` is necessary so that you can type `npx @tailwindcss/cli -i ./input.css -o ./style.css --watch` which the Tailwind CLI can generate `style.css`, which is then used by the browser. Without this step, Tailwind styles will not appear.
 
 ## What I learned
 
@@ -49,4 +49,4 @@ Tailwind CSS (CLI) requires a build step when not using the CDN. The `input.css`
 
 ## Verdict
 
-I would recommend Tailwind CSS for student projects because once you get the hang of it, it gets easy to style and you don't have to go back and forth from style.css to index.html, vice versa.
+I would recommend Tailwind CSS for student projects because once you get the hang of it, it gets easy to style and you don't have to go back and forth from style.css to index.html.
