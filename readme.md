@@ -2,7 +2,7 @@
 
 ## Student
 
-WooSung Choi
+WooSung Choi (A01340895)
 
 ## Stack tested
 
@@ -24,9 +24,10 @@ to learn how to use Tailwind CSS with Javascript
 
 1. Clone the repository
 
-2. Go into the project folder, type `cd app`
+2. Go into the project folder
 
-3. Activate Tailwind CSS using the CLI `npx @tailwindcss/cli -i ./input.css -o ./style.css --watch`
+3. Activate Tailwind CSS (CLI) by typing `npx @tailwindcss/cli -i ./input.css -o ./style.css --watch` in the terminal
+
 4. Open index.html (click Go Live)
 
 ## Environment / tools used
@@ -34,7 +35,6 @@ to learn how to use Tailwind CSS with Javascript
 - HTML
 - JavaScript
 - Tailwind CSS (CLI)
-- Node.js (npm start)
 - VS Code
 
 ## Notes about setup
